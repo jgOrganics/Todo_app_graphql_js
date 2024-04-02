@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/graph-ql%20/static/css/main.4efb37a3.css",
-    "main.js": "/graph-ql%20/static/js/main.6a27d271.js",
-    "static/js/52.854fbdae.chunk.js": "/graph-ql%20/static/js/52.854fbdae.chunk.js",
-    "static/js/760.2bfedc31.chunk.js": "/graph-ql%20/static/js/760.2bfedc31.chunk.js",
-    "static/js/239.a84cb1a2.chunk.js": "/graph-ql%20/static/js/239.a84cb1a2.chunk.js",
-    "static/js/206.68d504c9.chunk.js": "/graph-ql%20/static/js/206.68d504c9.chunk.js",
-    "index.html": "/graph-ql%20/index.html"
+    "main.css": "/graph-ql/static/css/main.4efb37a3.css",
+    "main.js": "/graph-ql/static/js/main.112b6914.js",
+    "static/js/52.854fbdae.chunk.js": "/graph-ql/static/js/52.854fbdae.chunk.js",
+    "static/js/760.2bfedc31.chunk.js": "/graph-ql/static/js/760.2bfedc31.chunk.js",
+    "static/js/239.a84cb1a2.chunk.js": "/graph-ql/static/js/239.a84cb1a2.chunk.js",
+    "static/js/206.68d504c9.chunk.js": "/graph-ql/static/js/206.68d504c9.chunk.js",
+    "index.html": "/graph-ql/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
-    "static/js/main.6a27d271.js"
+    "static/js/main.112b6914.js"
   ]
 }
