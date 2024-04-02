@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo_app_graphql_js%20/static/css/main.4efb37a3.css",
+    "main.js": "/Todo_app_graphql_js%20/static/js/main.cc53c408.js",
+    "static/js/52.854fbdae.chunk.js": "/Todo_app_graphql_js%20/static/js/52.854fbdae.chunk.js",
+    "static/js/760.2bfedc31.chunk.js": "/Todo_app_graphql_js%20/static/js/760.2bfedc31.chunk.js",
+    "static/js/239.a84cb1a2.chunk.js": "/Todo_app_graphql_js%20/static/js/239.a84cb1a2.chunk.js",
+    "static/js/206.68d504c9.chunk.js": "/Todo_app_graphql_js%20/static/js/206.68d504c9.chunk.js",
+    "index.html": "/Todo_app_graphql_js%20/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.cc53c408.js"
+  ]
+}
